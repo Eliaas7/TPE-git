@@ -5,15 +5,15 @@ La primera es untilizar el nombre de la etiqueta HTML, esto dara las caracterist
 
 ###Ejemplos  
 
-*form{  *
-  *background-color: red;  *
-*}  *
-*.titulo{  *
-  *text-alling: center;  *
-*}  *
-*#navbar{  *
-  *font-family: arial;  *
-*}  *
+*form{
+  background-color: red;  
+}  
+.titulo{  
+  text-alling: center;  
+}  
+#navbar{  
+  font-family: arial;  
+}  *
 
 
 *color: define un color
